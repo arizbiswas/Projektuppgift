@@ -1,0 +1,14 @@
+C:\Users\Ariz\source\repos\Projektet\Projektet\bin\Debug\net8.0\Projektet.exe
+C:\Users\Ariz\source\repos\Projektet\Projektet\bin\Debug\net8.0\Projektet.deps.json
+C:\Users\Ariz\source\repos\Projektet\Projektet\bin\Debug\net8.0\Projektet.runtimeconfig.json
+C:\Users\Ariz\source\repos\Projektet\Projektet\bin\Debug\net8.0\Projektet.dll
+C:\Users\Ariz\source\repos\Projektet\Projektet\bin\Debug\net8.0\Projektet.pdb
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.AssemblyInfoInputs.cache
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.AssemblyInfo.cs
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.csproj.CoreCompileInputs.cache
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.dll
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\refint\Projektet.dll
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.pdb
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\Projektet.genruntimeconfig.cache
+C:\Users\Ariz\source\repos\Projektet\Projektet\obj\Debug\net8.0\ref\Projektet.dll
